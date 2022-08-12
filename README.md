@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<a href="www.linkedin.com/in/amitpandeyy">
+<a href="https://www.linkedin.com/in/amitpandeyy/">
   <img align="left" alt="Amit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Amitpandey101">
