@@ -19,7 +19,7 @@ website link-https://modern-insta.herokuapp.com
 - Currently working on some of my cool side projects based on Web Development .
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ From [Amit Pandey](www.linkedin.com/in/amitpandeyy)
+⭐️ From [Amit Pandey](https://github.com/Amitpandey101)
 
 
 
